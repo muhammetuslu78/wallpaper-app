@@ -1,16 +1,22 @@
-# wallpaper_app
+# Wallpaper App
 
-A new Flutter project.
+The Flutter Wallpaper App is a versatile mobile application designed to elevate your device's aesthetics. This app provides a diverse collection of high-quality wallpapers and offers a range of features, including searching, sharing, downloading, and liking, to enhance your wallpaper experience.
 
-## Getting Started
+## Screenshots
+<p>
+<img src="https://raw.githubusercontent.com/muhammetuslu78/test/main/ss/r1.png" width="180" height="300"> <img src="https://raw.githubusercontent.com/muhammetuslu78/test/main/ss/r4.png" width="180" height="300">
+<img src="https://raw.githubusercontent.com/muhammetuslu78/test/main/ss/r6.png" width="180" height="300">
+<img src="https://raw.githubusercontent.com/muhammetuslu78/test/main/ss/r7.png" width="180" height="300">
+</p>
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Expansive Wallpaper Collection: Access a vast library of captivating wallpapers, thoughtfully curated to cater to various tastes and styles.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Search Functionality: Quickly find wallpapers by using the search feature, allowing you to discover wallpapers that resonate with your preferences.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Sharing: Share your favorite wallpapers with friends and family through various social media and messaging platforms, spreading creativity and inspiration.
+
+- Downloading: Download wallpapers directly to your device for offline use, ensuring you always have a stunning background at your fingertips.
+
+- Liking and Favorites: Save your preferred wallpapers to your profile and create a personalized collection of liked wallpapers, making it easy to revisit and apply them.
